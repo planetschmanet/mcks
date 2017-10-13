@@ -1,0 +1,25 @@
+{"hospitais":[
+  {
+    "nome":"Berge-Corwin",
+    "text":"unleash ubiquitous communities",
+    "address":"950 Barby Plaza",
+    "cep":null,
+    "contact":"506-910-9326",
+    "website":"chron.com"
+  }, {
+    "nome":"Dooley-Miller",
+    "text":"generate web-enabled e-business",
+    "address":"548 Northwestern Junction",
+    "cep":"602103",
+    "contact":"687-306-3317",
+    "website":"google.de"
+  }, {
+    "nome":"Frami and Sons",
+    "text":"optimize back-end experiences",
+    "address":"36362 Atwood Terrace",
+    "cep":"672530",
+    "contact":"209-856-5708",
+    "website":"technorati.com"
+  }
+  ]}
+
