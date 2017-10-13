@@ -1,0 +1,22 @@
+{"delegacias": [
+  {
+    "nome":"Schroeder, Osinski and Carter",
+    "text":"empower ubiquitous initiatives",
+    "address":"5600 Charing Cross Court",
+    "cep":"453444",
+    "contact":"312-114-2050",
+    "website":"quantcast.com"
+  }, {
+    "nome":"Ruecker Group",
+    "text":"optimize real-time functionalities",
+    "address":"470 Glacier Hill Avenue",
+    "cep":null,"contact":"938-409-1808",
+    "website":"nationalgeographic.com"
+  }, {
+    "nome":"Cassin, Mills and Walter",
+    "text":"integrate killer content",
+    "address":"221 Golf View Alley",
+    "cep":null,
+    "contact":"697-771-0338",
+    "website":"blinklist.com"}
+]}
