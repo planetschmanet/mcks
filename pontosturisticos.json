@@ -1,0 +1,24 @@
+{"pontosturisticos": [
+  {
+    "nome":"Kub Group",
+    "text":"iterate wireless vortals",
+    "address":"511 Gina Hill",
+    "cep":null,
+    "contact":"401-602-9400",
+    "website":"sfgate.com"
+  }, {
+    "nome":"Cartwright and Sons",
+    "text":"morph wireless solutions",
+    "address":"1864 Novick Circle",
+    "cep":"86723",
+    "contact":"954-655-4375",
+    "website":"wisc.edu"
+  }, {
+    "nome":"Hintz Inc",
+    "text":"envisioneer next-generation metrics",
+    "address":"4 Waubesa Lane",
+    "cep":null,
+    "contact":"710-315-1166",
+    "website":"gravatar.com"
+  }
+]}
