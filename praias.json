@@ -1,0 +1,21 @@
+{"praias": [
+    {
+      "nome":"Gusikowski, Schultz and McDermott",
+      "text":"streamline frictionless mindshare",
+      "address":"6 Fulton Point",
+      "cep":"5085-105",
+      "contact":"723-388-5051",
+      "website":"usa.gov"
+    }, {
+      "nome":"Gleason-Aufderhar",
+      "text":"utilize 24/365 action-items",
+      "address":"6508 Northland Plaza",
+      "cep":"DL10","contact":"194-799-4631",
+      "website":"theglobeandmail.com"
+    }, {
+      "nome":"O'Reilly Inc",
+      "text":"envisioneer out-of-the-box architectures",
+      "address":"846 Florence Avenue",
+      "cep":null,"contact":"410-345-3624",
+      "website":"drupal.org"
+    }]}
